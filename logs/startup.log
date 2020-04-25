@@ -1,0 +1,150 @@
+./logs/startup.log[2018-06-24 10:14:25] Starting Charliebot version 4.1.8
+./logs/startup.log[2018-06-24 10:14:25] Using Java VM 25.91-b14 from Oracle Corporation
+./logs/startup.log[2018-06-24 10:14:25] On Windows 7 version 6.1 (amd64)
+./logs/startup.log[2018-06-24 10:14:25] Predicates with no values defined will return: "it".
+./logs/startup.log[2018-06-24 10:14:25] Initializing Multiplexor.
+./logs/startup.log[2018-06-24 10:14:25] Loading Graphmaster.
+./logs/startup.log[2018-06-24 10:14:25] Starting up with "D:\charliebot\conf\startup.xml".
+./logs/startup.log[2018-06-24 10:14:25] Configuring bot "Alice".
+./logs/startup.log[2018-06-24 10:14:25] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:14:25] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:14:25] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:14:25] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:14:25] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:14:27] Configuring bot "Anna".
+./logs/startup.log[2018-06-24 10:14:27] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:14:27] Configuring bot "Charlie".
+./logs/startup.log[2018-06-24 10:14:27] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:14:27] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:14:28] 3 bots thinking with 86853 categories.
+./logs/startup.log[2018-06-24 10:14:28] Charliebot version 4.1.8 Build [00]
+./logs/startup.log[2018-06-24 10:14:28] 86853 categories loaded in 2.81 seconds.
+./logs/startup.log[2018-06-24 10:14:28] The AIML Watcher is active.
+./logs/startup.log[2018-06-24 10:14:28] HTTP server listening at http://V4400U:2001
+./logs/startup.log[2018-06-24 10:38:37] Starting Charliebot version 4.1.8
+./logs/startup.log[2018-06-24 10:38:37] Using Java VM 25.91-b14 from Oracle Corporation
+./logs/startup.log[2018-06-24 10:38:37] On Windows 7 version 6.1 (amd64)
+./logs/startup.log[2018-06-24 10:38:37] Predicates with no values defined will return: "it".
+./logs/startup.log[2018-06-24 10:38:37] Initializing Multiplexor.
+./logs/startup.log[2018-06-24 10:38:37] Loading Graphmaster.
+./logs/startup.log[2018-06-24 10:38:37] Starting up with "D:\charliebot\conf\startup.xml".
+./logs/startup.log[2018-06-24 10:38:37] Configuring bot "Alice".
+./logs/startup.log[2018-06-24 10:38:37] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:38:37] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:38:37] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:38:37] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:38:37] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:38:39] Configuring bot "Anna".
+./logs/startup.log[2018-06-24 10:38:39] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:38:39] Configuring bot "Charlie".
+./logs/startup.log[2018-06-24 10:38:39] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:38:39] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:38:40] 3 bots thinking with 86853 categories.
+./logs/startup.log[2018-06-24 10:38:40] Charliebot version 4.1.8 Build [00]
+./logs/startup.log[2018-06-24 10:38:40] 86853 categories loaded in 2.829 seconds.
+./logs/startup.log[2018-06-24 10:38:40] The AIML Watcher is active.
+./logs/startup.log[2018-06-24 10:38:40] HTTP server listening at http://V4400U:2001
+./logs/startup.log[2018-06-24 10:39:01] Starting Charliebot version 4.1.8
+./logs/startup.log[2018-06-24 10:39:01] Using Java VM 25.91-b14 from Oracle Corporation
+./logs/startup.log[2018-06-24 10:39:01] On Windows 7 version 6.1 (amd64)
+./logs/startup.log[2018-06-24 10:39:01] Predicates with no values defined will return: "it".
+./logs/startup.log[2018-06-24 10:39:02] Initializing Multiplexor.
+./logs/startup.log[2018-06-24 10:39:02] Loading Graphmaster.
+./logs/startup.log[2018-06-24 10:39:02] Starting up with "D:\charliebot\conf\startup.xml".
+./logs/startup.log[2018-06-24 10:39:02] Configuring bot "Alice".
+./logs/startup.log[2018-06-24 10:39:02] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:39:02] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:39:02] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:39:02] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:39:02] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:39:04] Configuring bot "Anna".
+./logs/startup.log[2018-06-24 10:39:04] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:39:04] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:39:04] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:39:04] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:39:04] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:39:05] Configuring bot "Charlie".
+./logs/startup.log[2018-06-24 10:39:05] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-24 10:39:05] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-24 10:39:05] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-24 10:39:05] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-24 10:39:05] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-24 10:39:06] 3 bots thinking with 86853 categories.
+./logs/startup.log[2018-06-24 10:39:06] Charliebot version 4.1.8 Build [00]
+./logs/startup.log[2018-06-24 10:39:06] 86853 categories loaded in 4.129 seconds.
+./logs/startup.log[2018-06-24 10:39:07] The AIML Watcher is active.
+./logs/startup.log[2018-06-24 10:39:07] HTTP server listening at http://V4400U:2001
+./logs/startup.log[2018-06-29 17:48:18] Starting Charliebot version 4.1.8
+./logs/startup.log[2018-06-29 17:48:18] Using Java VM 25.91-b14 from Oracle Corporation
+./logs/startup.log[2018-06-29 17:48:18] On Windows 7 version 6.1 (amd64)
+./logs/startup.log[2018-06-29 17:48:18] Predicates with no values defined will return: "it".
+./logs/startup.log[2018-06-29 17:48:19] Initializing Multiplexor.
+./logs/startup.log[2018-06-29 17:48:19] Loading Graphmaster.
+./logs/startup.log[2018-06-29 17:48:19] Starting up with "D:\charliebot\conf\startup.xml".
+./logs/startup.log[2018-06-29 17:48:19] Configuring bot "Alice".
+./logs/startup.log[2018-06-29 17:48:19] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-29 17:48:19] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-29 17:48:19] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-29 17:48:19] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-29 17:48:19] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-29 17:48:21] Configuring bot "Anna".
+./logs/startup.log[2018-06-29 17:48:21] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-29 17:48:21] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-29 17:48:21] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-29 17:48:21] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-29 17:48:21] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-29 17:48:21] Configuring bot "Charlie".
+./logs/startup.log[2018-06-29 17:48:22] Loaded 291 input substitutions.
+./logs/startup.log[2018-06-29 17:48:22] Loaded 19 gender substitutions.
+./logs/startup.log[2018-06-29 17:48:22] Loaded 9 person substitutions.
+./logs/startup.log[2018-06-29 17:48:22] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-06-29 17:48:22] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-06-29 17:48:22] 3 bots thinking with 86853 categories.
+./logs/startup.log[2018-06-29 17:48:22] Charliebot version 4.1.8 Build [00]
+./logs/startup.log[2018-06-29 17:48:22] 86853 categories loaded in 3.356 seconds.
+./logs/startup.log[2018-06-29 17:48:22] The AIML Watcher is active.
+./logs/startup.log[2018-06-29 17:48:22] HTTP server listening at http://V4400U:2001
+./logs/startup.log[2018-09-19 9:17:40] Starting Charliebot version 4.1.8
+./logs/startup.log[2018-09-19 9:17:41] Using Java VM 25.91-b14 from Oracle Corporation
+./logs/startup.log[2018-09-19 9:17:41] On Windows 7 version 6.1 (amd64)
+./logs/startup.log[2018-09-19 9:17:41] Predicates with no values defined will return: "it".
+./logs/startup.log[2018-09-19 9:17:41] Initializing Multiplexor.
+./logs/startup.log[2018-09-19 9:17:41] Loading Graphmaster.
+./logs/startup.log[2018-09-19 9:17:41] Starting up with "D:\charliebot\conf\startup.xml".
+./logs/startup.log[2018-09-19 9:17:41] Configuring bot "Alice".
+./logs/startup.log[2018-09-19 9:17:41] Loaded 291 input substitutions.
+./logs/startup.log[2018-09-19 9:17:41] Loaded 19 gender substitutions.
+./logs/startup.log[2018-09-19 9:17:41] Loaded 9 person substitutions.
+./logs/startup.log[2018-09-19 9:17:41] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-09-19 9:17:41] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-09-19 9:17:43] Configuring bot "Anna".
+./logs/startup.log[2018-09-19 9:17:43] Loaded 291 input substitutions.
+./logs/startup.log[2018-09-19 9:17:43] Loaded 19 gender substitutions.
+./logs/startup.log[2018-09-19 9:17:43] Loaded 9 person substitutions.
+./logs/startup.log[2018-09-19 9:17:43] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-09-19 9:17:43] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-09-19 9:17:44] Configuring bot "Charlie".
+./logs/startup.log[2018-09-19 9:17:44] Loaded 291 input substitutions.
+./logs/startup.log[2018-09-19 9:17:44] Loaded 19 gender substitutions.
+./logs/startup.log[2018-09-19 9:17:44] Loaded 9 person substitutions.
+./logs/startup.log[2018-09-19 9:17:44] Loaded 48 person2 substitutions.
+./logs/startup.log[2018-09-19 9:17:44] Loaded 4 sentence-splitters.
+./logs/startup.log[2018-09-19 9:17:45] 3 bots thinking with 86853 categories.
+./logs/startup.log[2018-09-19 9:17:45] Charliebot version 4.1.8 Build [00]
+./logs/startup.log[2018-09-19 9:17:45] 86853 categories loaded in 3.658 seconds.
+./logs/startup.log[2018-09-19 9:17:45] The AIML Watcher is active.
+./logs/startup.log[2018-09-19 9:17:45] HTTP server listening at http://V4400U:2001
